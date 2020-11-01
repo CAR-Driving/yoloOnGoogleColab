@@ -67,11 +67,11 @@ https://www.youtube.com/watch?v=4eIBisqx9_g ==
 
  4. [Preparing dataset for custom YOLO v3 object detector *video*][1]
 
- 5. [yolo custom dataset *video*][2]
+ 5. *video:*[yolo custom dataset ][2]
  
- 6.[Train YOLO to detect a custom object (online with free GPU) *video*](https://www.youtube.com/watch?v=_FNfRtXEbr4)
+ 6. *video:*[Train YOLO to detect a custom object (online with free GPU) ](https://www.youtube.com/watch?v=_FNfRtXEbr4)
 
- 7.[Creating a YOLOv3 Custom Dataset | Quick and Easy | 9,000,000+ Images](https://www.youtube.com/watch?v=_4A9inxGqRM)
+ 7. *video:*[Creating a YOLOv3 Custom Dataset | Quick and Easy | 9,000,000+ Images](https://www.youtube.com/watch?v=_4A9inxGqRM)
 
  8. http://www.sfu.ca/~jfa49/Files/Vehicle424.pdf
 
