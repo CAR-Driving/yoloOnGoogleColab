@@ -58,7 +58,7 @@ The [Colab Notebook page](https://github.com/CAR-Driving/yoloOnGoogleColab/blob/
     https://github.com/llSourcell/YOLO_Object_Detection
  
  2. https://towardsdatascience.com/guide-to-car-detection-using-yolo-48caac8e4ded
-    == https://colab.research.google.com/github/TheClub4/car-detection-yolov2/blob/master/Car%20detection%20for%20Autonomous%20Driving/Autonomous_driving_application_Car_detection_v3a.ipynb#scrollTo=Q-W8mwZCddtu
+    == [Colab Link]https://colab.research.google.com/github/TheClub4/car-detection-yolov2/blob/master/Car%20detection%20for%20Autonomous%20Driving/Autonomous_driving_application_Car_detection_v3a.ipynb#scrollTo=Q-W8mwZCddtu)
  3. https://www.datasciencecentral.com/profiles/blogs/autonomous-driving-car-detection-with-yolo-model-with-keras-in
 
  4. https://github.com/pjreddie/darknet/wiki/YOLO:-Real-Time-Object-Detection
