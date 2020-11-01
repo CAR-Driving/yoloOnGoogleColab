@@ -1,6 +1,6 @@
 
 
-## It is a test on this project:
+## It is a try for Iranian car Auto detection (type and model) on [this](https://github.com/mozanunal/yoloOnGoogleColab) project:
 
 ![enter image description here](https://i.stack.imgur.com/Tncs9.jpg)
 
@@ -46,32 +46,34 @@ The [Colab Notebook page](https://github.com/CAR-Driving/yoloOnGoogleColab/blob/
 > - [Darknet website](https://pjreddie.com/darknet/)
 > - [YOLOV3 Paper](https://arxiv.org/abs/1804.02767)
 
-**Useful post and video to better YOLO educating:**
+ - List item
 
- 1. https://www.youtube.com/watch?v=4eIBisqx9_g ==
+## TODO:
+
+ 1. ### Building Custom Datasets for detecting car model and those color
+
+**Useful post and video for YOLO educating:**
+
+ 2. 
+
+https://www.youtube.com/watch?v=4eIBisqx9_g ==
     https://github.com/llSourcell/YOLO_Object_Detection
  
- 2. https://towardsdatascience.com/guide-to-car-detection-using-yolo-48caac8e4ded
+ 1. https://towardsdatascience.com/guide-to-car-detection-using-yolo-48caac8e4ded
     == https://colab.research.google.com/github/TheClub4/car-detection-yolov2/blob/master/Car%20detection%20for%20Autonomous%20Driving/Autonomous_driving_application_Car_detection_v3a.ipynb#scrollTo=Q-W8mwZCddtu
+ 2. https://www.datasciencecentral.com/profiles/blogs/autonomous-driving-car-detection-with-yolo-model-with-keras-in
 
-3. https://www.datasciencecentral.com/profiles/blogs/autonomous-driving-car-detection-with-yolo-model-with-keras-in
+ 3. https://github.com/pjreddie/darknet/wiki/YOLO:-Real-Time-Object-Detection
 
-4. https://github.com/pjreddie/darknet/wiki/YOLO:-Real-Time-Object-Detection
+ 4. [Preparing dataset for custom YOLO v3 object detector][1]
 
-5. [Preparing dataset for custom YOLO v3 object detector][1]
+ 5. [yolo custom dataset][2]
 
-6. [yolo custom dataset][2]
+ 6. http://www.sfu.ca/~jfa49/Files/Vehicle424.pdf
 
-7. http://www.sfu.ca/~jfa49/Files/Vehicle424.pdf
+ 7. https://arxiv.org/pdf/1901.06358.pdf
 
-8. https://arxiv.org/pdf/1901.06358.pdf
-
-
-TODO:
-
-1-gatherinng Dataset for detecting car model and those color
-
-2-Trying changing this project to be same as this project:
+ 8. ## Trying changing this project to be same as this project:
 
 [**car-make-model-classifier-yolo3-python**][3]
 ![enter image description here][4]
