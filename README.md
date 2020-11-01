@@ -68,12 +68,14 @@ https://www.youtube.com/watch?v=4eIBisqx9_g ==
  4. [Preparing dataset for custom YOLO v3 object detector *video*][1]
 
  5. [yolo custom dataset *video*][2]
+ 
  6.[Train YOLO to detect a custom object (online with free GPU) *video*](https://www.youtube.com/watch?v=_FNfRtXEbr4)
 
+ 7.[Creating a YOLOv3 Custom Dataset | Quick and Easy | 9,000,000+ Images](https://www.youtube.com/watch?v=_4A9inxGqRM)
 
- 6. http://www.sfu.ca/~jfa49/Files/Vehicle424.pdf
+ 8. http://www.sfu.ca/~jfa49/Files/Vehicle424.pdf
 
- 7. https://arxiv.org/pdf/1901.06358.pdf
+ 9. https://arxiv.org/pdf/1901.06358.pdf
 
  - ## Trying changing [this project](https://github.com/spectrico/car-make-model-classifier-yolo3-python) to be same as this project:
 
