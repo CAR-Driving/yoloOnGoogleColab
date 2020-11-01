@@ -54,28 +54,26 @@ The [Colab Notebook page](https://github.com/CAR-Driving/yoloOnGoogleColab/blob/
 
 **Useful post and video for YOLO educating:**
 
- 2. 
-
-https://www.youtube.com/watch?v=4eIBisqx9_g ==
+ 1. https://www.youtube.com/watch?v=4eIBisqx9_g ==
     https://github.com/llSourcell/YOLO_Object_Detection
  
- 1. https://towardsdatascience.com/guide-to-car-detection-using-yolo-48caac8e4ded
+ 2. https://towardsdatascience.com/guide-to-car-detection-using-yolo-48caac8e4ded
     == https://colab.research.google.com/github/TheClub4/car-detection-yolov2/blob/master/Car%20detection%20for%20Autonomous%20Driving/Autonomous_driving_application_Car_detection_v3a.ipynb#scrollTo=Q-W8mwZCddtu
- 2. https://www.datasciencecentral.com/profiles/blogs/autonomous-driving-car-detection-with-yolo-model-with-keras-in
+ 3. https://www.datasciencecentral.com/profiles/blogs/autonomous-driving-car-detection-with-yolo-model-with-keras-in
 
- 3. https://github.com/pjreddie/darknet/wiki/YOLO:-Real-Time-Object-Detection
+ 4. https://github.com/pjreddie/darknet/wiki/YOLO:-Real-Time-Object-Detection
 
- 4. [Preparing dataset for custom YOLO v3 object detector *video*][1]
+ 5. [Preparing dataset for custom YOLO v3 object detector *video*][1]
 
- 5. *video:*[yolo custom dataset ][2]
+ 6. *video:*[yolo custom dataset ][2]
  
- 6. *video:*[Train YOLO to detect a custom object (online with free GPU) ](https://www.youtube.com/watch?v=_FNfRtXEbr4)
+ 7. *video:*[Train YOLO to detect a custom object (online with free GPU) ](https://www.youtube.com/watch?v=_FNfRtXEbr4)
 
- 7. *video:*[Creating a YOLOv3 Custom Dataset | Quick and Easy | 9,000,000+ Images](https://www.youtube.com/watch?v=_4A9inxGqRM)
+ 8. *video:*[Creating a YOLOv3 Custom Dataset | Quick and Easy | 9,000,000+ Images](https://www.youtube.com/watch?v=_4A9inxGqRM)
 
- 8. http://www.sfu.ca/~jfa49/Files/Vehicle424.pdf
+ 9. http://www.sfu.ca/~jfa49/Files/Vehicle424.pdf
 
- 9. https://arxiv.org/pdf/1901.06358.pdf
+ 10. https://arxiv.org/pdf/1901.06358.pdf
 
  - ## Trying changing [this project](https://github.com/spectrico/car-make-model-classifier-yolo3-python) to be same as this project:
 
