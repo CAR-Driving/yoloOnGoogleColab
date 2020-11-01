@@ -50,7 +50,7 @@ The [Colab Notebook page](https://github.com/CAR-Driving/yoloOnGoogleColab/blob/
 
 ## TODO:
 
- 1. ### Building Custom Datasets for detecting car model and those color
+ - ### Building Custom Datasets for detecting car model and those color
 
 **Useful post and video for YOLO educating:**
 
@@ -73,7 +73,7 @@ https://www.youtube.com/watch?v=4eIBisqx9_g ==
 
  7. https://arxiv.org/pdf/1901.06358.pdf
 
- 8. ## Trying changing this project to be same as this project:
+ - ## Trying changing this project to be same as this project:
 
 [**car-make-model-classifier-yolo3-python**][3]
 ![enter image description here][4]
