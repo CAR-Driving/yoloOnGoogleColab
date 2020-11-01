@@ -65,9 +65,11 @@ https://www.youtube.com/watch?v=4eIBisqx9_g ==
 
  3. https://github.com/pjreddie/darknet/wiki/YOLO:-Real-Time-Object-Detection
 
- 4. [Preparing dataset for custom YOLO v3 object detector][1]
+ 4. [Preparing dataset for custom YOLO v3 object detector *video*][1]
 
- 5. [yolo custom dataset][2]
+ 5. [yolo custom dataset *video*][2]
+ 6.[Train YOLO to detect a custom object (online with free GPU) *video*](https://www.youtube.com/watch?v=_FNfRtXEbr4)
+
 
  6. http://www.sfu.ca/~jfa49/Files/Vehicle424.pdf
 
