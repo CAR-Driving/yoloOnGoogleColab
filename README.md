@@ -80,7 +80,10 @@ https://www.youtube.com/watch?v=4eIBisqx9_g ==
 [**car-make-model-classifier-yolo3-python**][3]
 
 ## Thanks from Contributers:
+[Mehmet Ozan Ünal](https://github.com/mozanunal/yoloOnGoogleColab)
+
 *Amin*
+
 ....
 
   [1]: https://www.youtube.com/watch?v=XRVzuV9RexY
