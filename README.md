@@ -75,7 +75,7 @@ The [Colab Notebook page](https://github.com/CAR-Driving/yoloOnGoogleColab/blob/
 
  10. https://arxiv.org/pdf/1901.06358.pdf
 
- - ## Trying changing [this project](https://github.com/spectrico/car-make-model-classifier-yolo3-python) to be same as this project:
+ - ## Trying changing it to be same as [this project](https://github.com/spectrico/car-make-model-classifier-yolo3-python):
 
 ![enter image description here][4]
 
