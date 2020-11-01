@@ -73,11 +73,15 @@ https://www.youtube.com/watch?v=4eIBisqx9_g ==
 
  7. https://arxiv.org/pdf/1901.06358.pdf
 
- - ## Trying changing this project to be same as this project:
+ - ## Trying changing [this project](https://github.com/spectrico/car-make-model-classifier-yolo3-python) to be same as this project:
 
-[**car-make-model-classifier-yolo3-python**][3]
 ![enter image description here][4]
 
+[**car-make-model-classifier-yolo3-python**][3]
+
+## Thanks from Contributers:
+*Amin*
+....
 
   [1]: https://www.youtube.com/watch?v=XRVzuV9RexY
   [2]: https://www.youtube.com/results?search_query=yolo%20custom%20dataset
