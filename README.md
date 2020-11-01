@@ -2,7 +2,7 @@
 
 It is a test on this project:
 
-[enter image description here](https://i.stack.imgur.com/Tncs9.jpg)
+![enter image description here](https://i.stack.imgur.com/Tncs9.jpg)
 
 The [Colab Notebook page](https://github.com/CAR-Driving/yoloOnGoogleColab/blob/master/So_test_yoloColabDemo(iranian%20car%20test).ipynb) of above picture:
 
