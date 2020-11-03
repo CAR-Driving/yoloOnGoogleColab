@@ -80,6 +80,13 @@ The [Colab Notebook page](https://github.com/CAR-Driving/yoloOnGoogleColab/blob/
 ![enter image description here][4]
 
 [**car-make-model-classifier-yolo3-python**][3]
+Useful links:
+ 1.[train yolyo with custum dataset](https://colab.research.google.com/drive/1ntAL_zI68xfvZ4uCSAF6XT27g0U4mZbW):
+ ![https://colab.research.google.com/drive/1ntAL_zI68xfvZ4uCSAF6XT27g0U4mZbW](https://i.stack.imgur.com/jqtKB.png)
+ 
+ 2. Object Detection on a Custom Dataset using YOLO v5:
+
+ ![enter image description here](https://i.stack.imgur.com/AhaTI.png)
 
 ## Thanks from Contributers:
 [Mehmet Ozan Ünal](https://github.com/mozanunal/yoloOnGoogleColab)
