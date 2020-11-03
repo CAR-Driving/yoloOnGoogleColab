@@ -87,7 +87,7 @@ The [Colab Notebook page](https://github.com/CAR-Driving/yoloOnGoogleColab/blob/
  1.[train yolyo with custum dataset](https://colab.research.google.com/drive/1ntAL_zI68xfvZ4uCSAF6XT27g0U4mZbW):
  ![https://colab.research.google.com/drive/1ntAL_zI68xfvZ4uCSAF6XT27g0U4mZbW](https://i.stack.imgur.com/jqtKB.png)
  
- 2. Object Detection on a Custom Dataset using YOLO v5:
+ 2. [Object Detection on a Custom Dataset using YOLO v5](https://colab.research.google.com/drive/1e4zvS6LyhOAayEDh3bz8MXFTJcVFSvZX?usp=sharing#scrollTo=zog_lDxCd0dg):
 
  ![enter image description here](https://i.stack.imgur.com/AhaTI.png)
 
