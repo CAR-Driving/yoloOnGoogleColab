@@ -2,7 +2,7 @@ You can **Download** and **convert** *Kitty Database to Pascal VOC(XML)* format 
 
 
 
-[![enter image description here][2]](https://github.com/CAR-Driving/yoloOnGoogleColab/blob/master/Colab_Notebooks/Kitti_database/Kitti%20Database_Downloding%20and%20Converting%20to%20XML.ipynb)
+[![enter image description here][2]](https://colab.research.google.com/github/CAR-Driving/yoloOnGoogleColab/blob/master/Colab_Notebooks/Kitti_database/Kitti%20Database_Downloding%20and%20Converting%20to%20XML.ipynb)
 
 
 About **Kitti Vehicle Database**:
@@ -19,7 +19,7 @@ About **Kitti Vehicle Database**:
 [![enter image description here][4]][4]
 
 
-  [1]: https://github.com/CAR-Driving/yoloOnGoogleColab/blob/master/Colab_Notebooks/Kitti_database/Kitti%20Database_Downloding%20and%20Converting%20to%20XML.ipynb
+  [1]: https://colab.research.google.com/github/CAR-Driving/yoloOnGoogleColab/blob/master/Colab_Notebooks/Kitti_database/Kitti%20Database_Downloding%20and%20Converting%20to%20XML.ipynb
   [2]: https://i.stack.imgur.com/LuqNs.png
   [3]: https://www.kaggle.com/twaldo/kitti-object-detection
   [4]: https://i.stack.imgur.com/51eIT.png
