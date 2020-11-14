@@ -1,5 +1,598 @@
 Ford Festiva
 Peugeot 405
+Toyota	Corolla
+Ford	Focus
+Volkswagen	Golf
+Honda	Civic
+Toyota	Camry
+BMW	5 Series
+Opel	Astra
+Porsche	911
+Ford	Mustang
+Volkswagen	Passat
+BMW	3 Series
+Volkswagen	Polo
+Mini	Cooper
+Jeep	Wrangler
+Honda	Accord
+Toyota	Land Cruiser
+Toyota	Mark II
+Honda	CR-V
+Mitsubishi	Lancer
+Subaru	Impreza
+Lada	2114
+Lada	2107
+Lada	110
+Ford	Fiesta
+Lada	Priora
+Toyota	RAV4
+Opel	Corsa
+Lada	2109
+Audi	A4
+Subaru	Forester
+Mercedes-Benz	E-Class
+Toyota	Land Cruiser Prado
+Honda	Fit
+Toyota	Corona
+Lada	112
+Nissan	Qashqai
+Skoda	Octavia
+Mazda	3
+Porsche	Cayenne
+Kia	Sportage
+Nissan	X-Trail
+Jeep	Grand Cherokee
+Peugeot	308
+Lada	2106
+Lada	4x4 Niva
+Lada	21099
+Lada	2115
+Ford	Mondeo
+BMW	7 Series
+Nissan	Skyline
+Toyota	Vitz
+Lamborghini	Aventador
+Mitsubishi	Pajero
+Toyota	Caldina
+BMW	1 Series
+Audi	A6
+Volkswagen	Transporter
+Volkswagen	Beetle
+Subaru	WRX
+Seat	Leon
+Opel	Zafira
+Subaru	Legacy
+Volkswagen	Tiguan
+Skoda	Fabia
+Smart	Fortwo
+GAZ	Volga
+Toyota	Carina
+Seat	Ibiza
+Holden	Commodore
+Fiat	500
+Mazda	6
+Chevrolet	Cruze
+Audi	R8
+BMW	X5
+Toyota	Avensis
+Mercedes-Benz	S-Class
+Lada	Kalina
+Mitsubishi	Outlander
+Kia	Cee'd
+Toyota	Vista
+Land-Rover	Defender
+Toyota	Chaser
+Opel	Insignia
+Kia	Sorento
+Hyundai	Santa Fe
+Nissan	GT-R
+Toyota	Allion
+Peugeot	206
+Toyota	Crown
+Chevrolet	Camaro
+Kia	Rio
+Mazda	Demio
+Volkswagen	Touran
+Peugeot	208
+Dodge	Challenger
+Fiat	Punto
+Chevrolet	Corvette
+Mercedes-Benz	C-Class
+Volkswagen	Touareg
+Lamborghini	Huracan
+Toyota	Hilux
+Nissan	Silvia
+Ford	F-150
+Audi	A3
+Volkswagen	Jetta
+Fiat	Panda
+Toyota	Prius
+Nissan	Primera
+Porsche	Carrera
+Porsche	Panamera
+Toyota	Sprinter
+Citroen	C3
+Peugeot	207
+Volkswagen	Caddy
+Hyundai	Tucson
+Toyota	Harrier
+Opel	Meriva
+Ford	Ranger
+Suzuki	Grand Vitara
+Hyundai	Accent
+Dodge	Charger
+Daewoo	Nexia
+Jeep	Cherokee
+Volvo	V40
+Nissan	Sunny
+Toyota	Ipsum
+Hyundai	Elantra
+Maruti Suzuki	Vitara
+Chevrolet	Niva
+Kia	Picanto
+Nissan	Juke
+Ferrari	458
+Toyota	Premio
+Ford	Fusion
+BMW	M4
+Chevrolet	Chevy
+Honda	HR-V
+Hyundai	i30
+Nissan	Fairlady Z
+Land-Rover	Discovery
+Peugeot	3008
+Chevrolet	Silverado
+Chevrolet	Lacetti
+Nissan	Note
+Nissan	Bluebird
+Ford	Escape
+Opel	Vectra
+Toyota	Wish
+Hyundai	Sonata
+Nissan	Micra
+Land-Rover	Range Rover
+Ford	C-Max
+BMW	M3
+Toyota	Cresta
+Land-Rover	Range Rover Sport
+Citroen	C4
+Renault	Megane
+Nissan	Navara
+Ford	Kuga
+Porsche	Boxster
+Peugeot	307
+Audi	TT
+Peugeot	2008
+Nissan	March
+Mazda	CX-5
+Audi	A5
+Ford	Falcon
+Mazda	Miata
+Volvo	S60
+Honda	Odyssey
+Skoda	Superb
+Jeep	Renegade
+Maruti Suzuki	Swift
+BMW	4 Series
+Toyota	Yaris
+Hyundai	ix35
+Nissan	Patrol
+Volkswagen	Up
+Nissan	Almera
+Lada	2105
+Audi	Q5
+Toyota	Supra
+BMW	335
+Volvo	V70
+Audi	RS 6
+Ford	Transit
+Honda	Integra
+Opel	Mokka
+Toyota	Celica
+Nissan	Tiida
+Lada	2108
+Volkswagen	Scirocco
+Volvo	V60
+GMC	Sierra
+Jaguar	F-Type
+Peugeot	508
+Porsche	356
+Ford	Explorer
+Ford	KA
+Volkswagen	Sharan
+Honda	Life
+Toyota	HiAce
+Porsche	Macan
+BMW	330
+Peugeot	Partner
+Nissan	Teana
+Daewoo	Matiz
+Hyundai	Getz
+Subaru	Outback
+BMW	E46
+Audi	Q7
+Kia	Optima
+Mitsubishi	Galant
+Honda	Jazz
+Toyota	TownAce
+Citroen	DS 3
+Chevrolet	Aveo
+Smart	Forfour
+Mitsubishi	Colt
+Mitsubishi	ASX
+Dodge	Ram
+Nissan	Cefiro
+BMW	325
+Renault	Logan
+BMW	E36
+Toyota	4Runner
+Chevrolet	Malibu
+Nissan	Wingroad
+Land-Rover	Range Rover Evoque
+Porsche	Cayman
+Jaguar	XF
+Kia	Cerato
+Bentley	Continental GT
+Mazda	RX-7
+Toyota	Tacoma
+Suzuki	Jimny
+Audi	A8
+BMW	328
+Ferrari	488
+Volkswagen	Multivan
+Acura	TL
+BMW	E30
+Honda	S2000
+Mitsubishi	L200
+Citroen	Berlingo
+Hyundai	i20
+BMW	318
+Opel	Adam
+Fiat	Doblo
+Nissan	Maxima
+Ferrari	F430
+Nissan	Cube
+Kia	Soul
+Pagani	Huayra
+Land-Rover	Freelander
+Hyundai	Solaris
+Nissan	Pulsar
+Honda	Stream
+Audi	S3
+Nissan	Altima
+McLaren	12C
+Toyota	Auris
+Abarth	500
+Nissan	AD Wagon
+Toyota	Passo
+Nissan	350Z
+Ford	S-MAX
+Mazda	Familia
+Alfa Romeo	Giulia
+Volkswagen	Amarok
+Mini	One
+Ford	GT
+Lamborghini	Gallardo
+Toyota	ist
+Renault	Sport
+Jaguar	F-Pace
+Chevrolet	Impala
+Toyota	Hilux Surf
+Ferrari	LaFerrari
+Opel	Vivaro
+Audi	RS 3
+BMW	X3
+RAM	1500
+Lexus	RX 300
+Fiat	500C
+BMW	i8
+Cadillac	Escalade
+Ford	EcoSport
+Acura	MDX
+Nissan	Pathfinder
+BMW	Z4
+Fiat	500L
+Citroen	C1
+Mercedes-Benz	M-Class
+Skoda	Yeti
+Land-Rover	Discovery Sport
+Mazda	2
+Citroen	C4 Picasso
+Peugeot	107
+Hyundai	Veloster
+Fiat	500X
+Peugeot	5008
+Jaguar	E-Type
+Aston Martin	Vantage
+Dacia	Duster
+Renault	Clio
+Volvo	XC90
+Nissan	Sentra
+Suzuki	SX4
+Toyota	Highlander
+Lada	2111
+Jaguar	XE
+Mazda	RX-8
+Audi	A1
+Ford	Edge
+Mercedes-Benz	G-Class
+Nissan	Serena
+Toyota	Tundra
+Mitsubishi	Delica
+BMW	6 Series
+Nissan	Murano
+Audi	S4
+Lada	2104
+Mitsubishi	Pajero Sport
+Audi	A7
+Mitsubishi	Lancer Evolution
+Chevrolet	Equinox
+Skoda	Rapid
+Mazda	MX-5
+Abarth	595
+Toyota	Kluger
+Ford	Escort
+Mercedes-Benz	AMG C 63
+Peugeot	407
+Audi	S5
+Fiat	Grande Punto
+Lexus	RX 350
+Hyundai	Grand Starex
+Lada	2101
+Saab	9-3
+Audi	RS 4
+Volvo	XC60
+McLaren	570S
+Hyundai	i10
+Toyota	Probox
+Mazda	CX-7
+Subaru	BRZ
+Toyota	Platz
+Seat	Altea
+Nissan	Laurel
+Audi	80
+Volkswagen	New Beetle
+BMW	X1
+McLaren	720S
+Fiat	Ducato
+Toyota	Fun Cargo
+Audi	Q3
+Pontiac	Firebird
+Bugatti	Chiron
+Toyota	Ractis
+Volkswagen	Crafter
+Ferrari	F12
+Nissan	Terrano
+Alfa Romeo	Giulietta
+Mercedes-Benz	220
+Toyota	Gt 86
+Seat	Alhambra
+Volkswagen	Kombi
+Porsche	944
+Daihatsu	Terios
+Citroen	C5
+Porsche	911 GT3
+Jeep	Compass
+Chevrolet	Lanos
+Ferrari	California
+Toyota	LiteAce
+Citroen	C4 Cactus
+Citroen	2CV
+Toyota	Estima
+Lexus	LX 570
+Audi	RS 5
+Porsche	Targa
+Dacia	Sandero
+Ford	Galaxy
+Toyota	Altezza
+Mitsubishi	Triton
+Mercedes-Benz	Mercedes-AMG GT
+Chevrolet	Captiva
+BMW	i3
+Volvo	S40
+BMW	M5
+Cadillac	CTS
+Opel	Combo
+Honda	Prelude
+Mazda	Premacy
+Peugeot	108
+Fiat	Tipo
+Volvo	V50
+Honda	Stepwgn
+Infiniti	FX35
+Volkswagen	Golf Plus
+BMW	X6
+Mazda	CX-3
+Ford	F-Series Super Duty
+Toyota	Mark X
+Hyundai	Avante
+Subaru	Crosstrek
+Nissan	370Z
+UAZ	Buhanka
+Bentley	Bentayga
+Honda	Airwave
+Cadillac	DeVille
+Skoda	Citigo
+BMW	M2
+Porsche	918 Spyder
+Ford	Bronco
+SsangYong	Actyon
+Volkswagen	CC
+Maserati	GranTurismo
+Dodge	Viper
+Ford	F-250
+Kia	Spectra
+Mitsubishi	Eclipse
+Lexus	GS 300
+Audi	SQ5
+Hyundai	i40
+Ferrari	Testarossa
+Fiat	Bravo
+Kia	Carens
+Opel	Antara
+Seat	Mii
+Mitsubishi	Space Star
+Mercedes-Benz	CLA Shooting Brake
+BMW	2002
+Honda	NSX
+Mazda	MPV
+Toyota	Starlet
+Rolls-Royce	Phantom
+Acura	RDX
+UAZ	UAZ-3151
+Toyota	FJ Cruiser
+Chevrolet	Spark
+Renault	Captur
+Cadillac	CTS-V
+Kia	Venga
+Subaru	XV
+Tesla	Model S
+Vauxhall	Astra
+Audi	100
+Toyota	Fortuner
+Nissan	Latio
+Pontiac	GTO
+Audi	RS 7
+Buick	Enclave
+Tesla	Model X
+Volkswagen	Passat CC
+Ford	B-MAX
+Volvo	C30
+Holden	Cruze
+Toyota	MR2
+Audi	TTS
+Toyota	Raum
+Citroen	Grand C4 Picasso
+Volkswagen	Eos
+Renault	Twingo
+Lamborghini	Murcielago
+Mercedes-Benz	200
+Chrysler	300
+Alfa Romeo	4C
+Pagani	Zonda
+GMC	Acadia
+UAZ	UAZ-469
+Opel	Omega
+BMW	2 Series
+Opel	Agila
+Peugeot	106
+Mazda	Bongo
+Ferrari	599
+Vauxhall	Corsa
+Mini	Countryman
+Dodge	Durango
+Toyota	Noah
+Mercedes-Benz	230
+Volkswagen	Lupo
+Nissan	Rogue
+Toyota	Nadia
+Lada	2113
+Renault	Scenic
+BMW	E92
+Shelby	Cobra
+Volkswagen	Phaeton
+Volkswagen	Bora
+Acura	TLX
+Lexus	RX 330
+Scion	FR-S
+Lexus	IS 250
+Chevrolet	Tahoe
+Ford	Territory
+Honda	Inspire
+Renault	Kangoo
+Mazda	Axela
+Volvo	S80
+McLaren	675LT
+Holden	Captiva
+Maserati	Quattroporte
+Alfa Romeo	MiTo
+Lancia	Delta
+Dodge	Dart
+Alfa Romeo	Spider
+Peugeot	Boxer
+BMW	F80
+Opel	Tigra
+Seat	Toledo
+Lincoln	Continental
+Mercedes-Benz	A-Class
+Lamborghini	Countach
+Mercedes-Benz	CLK-Class
+Lotus	Exige
+Skoda	Kodiaq
+Bugatti	Veyron
+McLaren	650S
+Mazda	BT-50
+Audi	Q2
+Jaguar	XJ
+Ford	Fairlane
+Jeep	Willys
+Toyota	Soarer
+Alfa Romeo	147
+Toyota	Succeed
+Ferrari	360
+Honda	Torneo
+Hyundai	ix20
+Skoda	Roomster
+BMW	E60
+Aston Martin	Vanquish
+Acura	TSX
+Acura	NSX
+UAZ	Patriot
+Maserati	Levante
+Lexus	GX 470
+Dacia	Logan
+Alfa Romeo	159
+Isuzu	D-Max
+BMW	M6
+Renault	Koleos
+Mercedes-Benz	300
+Holden	Colorado
+Ferrari	F40
+GMC	Yukon
+Infiniti	Q50
+Renault	Laguna
+Lexus	LX 470
+Opel	Karl
+Toyota	bB
+Lexus	CT 200h
+Ford	Transit Connect
+GMC	Terrain
+Ferrari	F12tdf
+Mitsubishi	Mirage
+Mitsubishi	RVR
+Toyota	Voxy
+Lada	Granta
+Datsun	510
+Nissan	Liberty
+Honda	Pilot
+Mazda	CX-9
+Chrysler	300C
+Hummer	H2
+Citroen	C2
+Nissan	Frontier
+Peugeot	205
+Koenigsegg	Agera
+Suzuki	Ignis
+Mazda	Mazdaspeed 3
+Volkswagen	Fox
+Mazda	626
+Mercedes-Benz	C250
+Tofas	Dogan
+Kia	Forte
+BMW	Z3
+Nissan	Elgrand
+Lotus	Elise
+Saab	900
+Maruti Suzuki	Baleno
+Toyota	Windom
+Chevrolet	Traverse
+Porsche	Cayman GT4
+Mazda	5
+Acura	ILX
+Infiniti	G35
+Toyota	Aristo
+Opel	Kadett
+Ford	Crown Victoria
 Mitsubishi	3000GT
 SsangYong	Rexton
 Ford	Taurus
@@ -1818,160 +2411,6 @@ Aston Martin	DB2/4
 Audi	100 Coupe S
 Peugeot	305
 Honda	Jade
-1794
-Mitsuoka  Orochi
-1795
-Brilliance  M2
-1796
-Ford  E250
-1797
-Hyundai Santro
-1798
-Buick Reatta
-1799
-Opel  Kapitan
-1800
-Volkswagen  cross up!
-1801
-Lancia  Gamma
-1802
-Jaguar  X300
-1803
-Panoz Esperante
-1804
-Mazda Xedos
-1805
-Honda Fit Shuttle
-1806
-Koenigsegg  CCR
-1807
-Mercedes-Benz C 36 AMG
-1808
-Pontiac Torrent
-1809
-Holden  Adventra
-1810
-Ford  E150
-1811
-Chevrolet Uplander
-1812
-Jaguar  XJR-15
-1813
-Chevrolet Cobalt SS
-1814
-Mercedes-Benz SLC 180
-1815
-Wiesmann  GT MF5
-1816
-Aston Martin  DB2/4
-1817
-Audi  100 Coupe S
-1818
-Peugeot 305
-1819
-Honda Jade
-1820
-Holden  TrailBlazer
-1821
-Subaru  R1
-1822
-Isuzu MU
-1823
-Ford  Aspire
-1824
-Ford  Crestline
-1825
-Volkswagen  Routan
-1826
-Mazda RX
-1827
-Seat  Inca
-1828
-Ferrari 125 S
-1829
-Nissan  NX
-1830
-Packard Clipper
-1831
-Daihatsu  Sonica
-1832
-Lancia  Zagato
-1833
-Kia Ray
-1834
-Daihatsu  Max
-1835
-Austin  Allegro
-1836
-GAZ GAZ-67
-1837
-Maserati  300S
-1838
-Peel  P50
-1839
-Great Wall  V240
-1840
-Buick GSX
-1841
-Mercedes-Benz A 210
-1842
-Kia Avella
-1843
-Tata  Nano
-1844
-Isuzu Amigo
-1845
-Moskvich  402/403/407
-1846
-Great Wall  X240
-1847
-Premier Padmini
-1848
-Seat  SEAT Panda
-1849
-Chery Tiggo 2
-1850
-Aston Martin  DB10
-1851
-Daihatsu  Midget
-1852
-Dodge Viper GTS-R
-1853
-Marussia  B1
-1854
-Datsun  mi-Do
-1855
-GMC Safari
-1856
-Nissan  KIX
-1857
-Saab  9-4X
-1858
-Toyota  RAV4 Adventure
-1859
-Holden  Insignia
-1860
-Oldsmobile  Custom Cruiser
-@soheilpaper
-Propose new file
-Commit summary
-Create car_type_label.txt
-Optional extended description
-Add an optional extended description…
-
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
 Holden	TrailBlazer
 Subaru	R1
 Isuzu	MU
