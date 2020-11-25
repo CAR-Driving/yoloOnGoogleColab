@@ -21,5 +21,4 @@ Then needs to download the scraped video from Mega.nz drive to Colab folder agai
 https://github.com/CAR-Driving/yoloOnGoogleColab/blob/master/database_creating/Video_to_Photo_converting.ipynb
 
 
-  [1]: 
-  
+## To be COntinued
