@@ -2,7 +2,7 @@
 
 
 # Scraping Almost 200 car type video to Mega.nz Drive page
-you can see the questiona about the databse cereating here:
+you can see the question about the database creating here:
 
 https://stackoverflow.com/questions/64736227/yoututbe-scraping-by-colab
 https://stackoverflow.com/questions/64839408/problem-with-using-the-mega-nz-module-via-google-colab/64995620#64995620
@@ -21,4 +21,4 @@ Then needs to download the scraped video from Mega.nz drive to Colab folder agai
 https://github.com/CAR-Driving/yoloOnGoogleColab/blob/master/database_creating/Video_to_Photo_converting.ipynb
 
 
-## To be COntinued
+## To be Continued
